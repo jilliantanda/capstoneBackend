@@ -1,3 +1,3 @@
 module.exports = {
-    contestantCtrl: require('./disarrayCtrls'),
+    disarrayCtrl: require('./disarrayCtrls'),
 }

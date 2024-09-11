@@ -9,5 +9,5 @@ app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.use("/", routes);
+app.use('/', routes);
 app.listen(PORT, () => console.log(`Listening on PORT ${PORT}`));
