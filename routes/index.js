@@ -1,6 +1,6 @@
 const router = require('express').Router()
 const goalRoute = require('./goalRoutes')
 
-router.use('/goal', goalRoute)
+router.use('/goals', goalRoute)
 
 module.exports = router
