@@ -13,5 +13,6 @@ async function connectToMongo(){
 connectToMongo()
 
 module.exports = {
-    Goal: require('./Goal')
+    Goal: require('./Goal'),
+    User: require('./User'),
 }
