@@ -28,3 +28,5 @@ Before running this project, ensure you have the following installed:
 - **MongoDB** installed and running (or a cloud-based MongoDB instance)
 
 ## Link to deployed app
+
+https://capstonedisarray.netlify.app/
